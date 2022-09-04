@@ -1,0 +1,25 @@
+@charset "UTF-8";
+@font-face {
+	font-family: 'HarmonyOSHans-Regular';
+	font-style: normal;
+	src: url('https://cdn.jsdelivr.net/gh/Adai-233/HarmonyOS-Sans-Font@1.0/WOFF2/HarmonyOS_Sans_SC_Bold.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/Adai-233/HarmonyOS-Sans-Font@1.0/WOFF/HarmonyOS_Sans_SC_Bold.woff') format('woff');
+	font-weight: 700;
+}
+@font-face {
+	font-family: 'HarmonyOSHans-Regular';
+	font-style: normal;
+	src: url('https://cdn.jsdelivr.net/gh/Adai-233/HarmonyOS-Sans-Font@1.0/WOFF2/HarmonyOS_Sans_SC_Medium.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/Adai-233/HarmonyOS-Sans-Font@1.0/WOFF/HarmonyOS_Sans_SC_Medium.woff') format('woff');
+	font-weight: 500;
+}
+@font-face {
+	font-family: 'HarmonyOSHans-Regular';
+	font-style: normal;
+	src: url('https://cdn.jsdelivr.net/gh/Adai-233/HarmonyOS-Sans-Font@1.0/WOFF2/HarmonyOS_Sans_SC_Regular.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/Adai-233/HarmonyOS-Sans-Font@1.0/WOFF/HarmonyOS_Sans_SC_Regular.woff') format('woff');
+	font-weight: 400;
+}
+@font-face {
+	font-family: 'HarmonyOSHans-Regular';
+	font-style: normal;
+	src: url('https://cdn.jsdelivr.net/gh/Adai-233/HarmonyOS-Sans-Font@1.0/WOFF2/HarmonyOS_Sans_SC_Light.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/Adai-233/HarmonyOS-Sans-Font@1.0/WOFF/HarmonyOS_Sans_SC_Light.woff') format('woff');
+	font-weight: 300;
+}
